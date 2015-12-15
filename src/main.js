@@ -135,4 +135,4 @@ class WS {
 
 }
 
-export default new WS();
+export default WS;
